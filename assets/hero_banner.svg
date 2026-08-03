@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="1600" height="500" fill="#020617"/>
+  <rect x="40" y="40" width="1520" height="420" rx="28" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <circle cx="1280" cy="180" r="120" fill="#0f766e" opacity="0.35"/>
+  <circle cx="1280" cy="180" r="70" fill="#2dd4bf" opacity="0.25"/>
+  <text x="120" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#f8fafc">OptiLink Modem</text>
+  <text x="120" y="245" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#cbd5e1">STM32F412 • Optical Communication • Embedded Systems</text>
+  <rect x="120" y="290" width="250" height="56" rx="12" fill="#2563eb"/>
+  <text x="245" y="326" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f8fafc">Engineering Project</text>
+  <text x="120" y="380" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#94a3b8">Built as a structured, configurable modem workflow for transmitter and receiver firmware.</text>
+  <text x="120" y="415" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#38bdf8">Developed by Neeraj</text>
+</svg>

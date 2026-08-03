@@ -1,0 +1,15 @@
+# Build outputs
+**/build/
+**/cmake-build-*/
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.map
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700">
+  <rect width="1400" height="700" fill="#020617"/>
+  <rect x="80" y="70" width="1240" height="560" rx="28" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <text x="700" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#f8fafc">System Flow</text>
+
+  <rect x="180" y="210" width="220" height="100" rx="16" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+  <text x="290" y="255" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f8fafc">Receive Input</text>
+  <text x="290" y="284" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">UART / Command</text>
+
+  <rect x="470" y="210" width="220" height="100" rx="16" fill="#1e293b" stroke="#22c55e" stroke-width="2"/>
+  <text x="580" y="255" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f8fafc">Build Frame</text>
+  <text x="580" y="284" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">Packetize</text>
+
+  <rect x="760" y="210" width="220" height="100" rx="16" fill="#1e293b" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="870" y="255" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f8fafc">Transmit</text>
+  <text x="870" y="284" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">Optical Drive</text>
+
+  <rect x="1040" y="210" width="180" height="100" rx="16" fill="#1e293b" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="1130" y="255" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f8fafc">Decode</text>
+  <text x="1130" y="284" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">Validate</text>
+
+  <rect x="620" y="430" width="300" height="100" rx="16" fill="#0f766e" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="770" y="480" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#ecfeff">Report Metrics</text>
+
+  <line x1="400" y1="260" x2="470" y2="260" stroke="#f8fafc" stroke-width="3"/>
+  <line x1="690" y1="260" x2="760" y2="260" stroke="#f8fafc" stroke-width="3"/>
+  <line x1="980" y1="260" x2="1040" y2="260" stroke="#f8fafc" stroke-width="3"/>
+  <line x1="1130" y1="310" x2="770" y2="430" stroke="#f8fafc" stroke-width="3"/>
+</svg>

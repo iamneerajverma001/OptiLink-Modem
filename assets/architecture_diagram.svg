@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#0f172a"/>
+  <rect x="70" y="80" width="1060" height="440" rx="24" fill="#111827" stroke="#38bdf8" stroke-width="3"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="32" fill="#f8fafc">OptiLink Modem Architecture</text>
+
+  <rect x="140" y="220" width="220" height="120" rx="16" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+  <text x="250" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#f8fafc">TX Firmware</text>
+  <text x="250" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">Packet Builder</text>
+
+  <rect x="470" y="220" width="260" height="120" rx="16" fill="#1e293b" stroke="#22c55e" stroke-width="2"/>
+  <text x="600" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#f8fafc">Optical Link</text>
+  <text x="600" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">TX / RX Path</text>
+
+  <rect x="840" y="220" width="220" height="120" rx="16" fill="#1e293b" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="950" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#f8fafc">RX Firmware</text>
+  <text x="950" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cbd5e1">DSP / DPLL / MAC</text>
+
+  <rect x="310" y="410" width="580" height="70" rx="16" fill="#0f766e" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="600" y="452" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ecfeff">Telemetry, Diagnostics, and Configuration</text>
+
+  <line x1="360" y1="280" x2="470" y2="280" stroke="#f8fafc" stroke-width="3"/>
+  <line x1="730" y1="280" x2="840" y2="280" stroke="#f8fafc" stroke-width="3"/>
+  <line x1="600" y1="340" x2="600" y2="410" stroke="#f8fafc" stroke-width="3"/>
+</svg>
